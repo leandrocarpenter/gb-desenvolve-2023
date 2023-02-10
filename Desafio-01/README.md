@@ -15,6 +15,6 @@
 
 | Documentação | URL |
 | ------ | ------ |
-| Ansible Instalação | [https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html][PlDb] |
-| Ansible AWS | [https://docs.ansible.com/ansible/latest/collections/amazon/aws/index.html][PlGh] |
-| Ansible APT | [ https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html][PlGd] |
+| Ansible Instalação | [https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html]|
+| Ansible AWS | [https://docs.ansible.com/ansible/latest/collections/amazon/aws/index.html]|
+| Ansible APT | [ https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html]|
