@@ -1,6 +1,6 @@
 # Brincando com Ansible V1.
 ## _Atividades_
-1 - Subir uma instancia(ubuntu free tier) na aws ou usar seu proprio PC.
+- 1 - Subir uma instancia(ubuntu free tier) na aws ou usar seu proprio PC.
 2 - Instalar o Ansible.
 3 - Com Ansible criar 2 instancias(ubuntu free tier) na aws.
 4 - O playbook deverá conter as seguintes tarefas:
