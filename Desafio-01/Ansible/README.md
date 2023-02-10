@@ -1,5 +1,5 @@
-Brincando com Ansible
-
+# Brincando com Ansible V1.
+## _Atividades_
 1 - Subir uma instancia(ubuntu free tier) na aws ou usar seu proprio PC.
 2 - Instalar o Ansible.
 3 - Com Ansible criar 2 instancias(ubuntu free tier) na aws.
@@ -11,8 +11,10 @@ Brincando com Ansible
 4.5 - Restart do servico Nginx.
 5 - Depois de Testado, NÃO ESQUECER DE DESTRUIR O AMBIENTE.
 
+## LINKs
 
-Documentação
-Ansible Instalação - https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
-Ansible AWS - https://docs.ansible.com/ansible/latest/collections/amazon/aws/index.html
-Ansible APT - https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html
+| Documentação | URL |
+| ------ | ------ |
+| Ansible Instalação | [https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html][PlDb] |
+| Ansible AWS | [https://docs.ansible.com/ansible/latest/collections/amazon/aws/index.html][PlGh] |
+| Ansible APT | [ https://docs.ansible.com/ansible/latest/collections/ansible/builtin/apt_module.html][PlGd] |
